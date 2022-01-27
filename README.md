@@ -1,4 +1,4 @@
-#### Funciones básicas en MIPS
+## Funciones básicas en MIPS
 El presente repositorio almacena funciones básicas en la cotidianidad.
 - Algoritmo de la división (Entera y Decimal)
 - Algoritmo de la multiplicación (Entera)
